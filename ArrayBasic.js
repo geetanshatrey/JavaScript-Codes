@@ -1,0 +1,10 @@
+var ourArray= [["Geetansh", 1],["Everything",2]];
+console.log(ourArray);
+var dataArray=[10,20,30];
+var a=dataArray[0];
+console.log(a);
+var multArray=[[1,2,3],[4,5,6]];
+myData=multArray[0];
+console.log(myData);
+myData=multArray[0][0];
+console.log(myData);
